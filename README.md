@@ -37,3 +37,5 @@ O projeto está estruturado em duas partes principais:
 4. **Visualizações Gráficas:**
    - Gráfico de vendas ao longo do tempo.
    - Gráficos de dispersão, histograma e boxplot para análise detalhada dos dados.
+
+Link do Colab: https://colab.research.google.com/drive/1dSpAOyZxl6H_V4qrg6IQLFC9WTQ9Athu?usp=sharing
